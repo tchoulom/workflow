@@ -1,2 +1,2 @@
 # workflow
-workflow lab
+Git workflow lab
